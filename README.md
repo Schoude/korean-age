@@ -1,5 +1,7 @@
 # Korean Age Calculator
 
+Converts the _regular_ age of a person into _Korean age_, which is up to two years more, depending on when you are born and the current date.
+
 ## Installation
 
 `npm install korean-age`
