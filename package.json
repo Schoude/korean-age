@@ -1,0 +1,26 @@
+{
+  "name": "korean-age",
+  "version": "1.0.0",
+  "description": "Converts the regular age of a person into Korean age, which is up to two years more, depending on when you are born and the current date.",
+  "main": "korean_age.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schoude/korean-age.git"
+  },
+  "keywords": [
+    "korea",
+    "korean-age",
+    "east",
+    "asia",
+    "korea"
+  ],
+  "author": "Marc Baque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schoude/korean-age/issues"
+  },
+  "homepage": "https://github.com/Schoude/korean-age#readme"
+}
