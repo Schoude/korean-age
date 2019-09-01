@@ -17,11 +17,11 @@ There is only one exported function called `calcKoreanAge(birthday)` which takes
 ```
 import {calcKoreanAge} from 'korean-age';
 
-let myBirthday = new Date('1997-03-14);
+let myBirthday = new Date('1997-03-14');
 // you can set the hours to 00:00:00
 myBirthday.setHours(0, 0, 0, 0,);
 
-// call the functio with the birthday as the parameter.
+// call the function with the birthday as the parameter.
 let ages = calcKoreanAge(myBirthday);
 
 ```
