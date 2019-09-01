@@ -1,6 +1,6 @@
 {
   "name": "korean-age",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts the regular age of a person into Korean age, which is up to two years more, depending on when you are born and the current date.",
   "main": "korean_age.js",
   "scripts": {
